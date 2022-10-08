@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "binance-spot",
+    "slug": "binance-spot",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

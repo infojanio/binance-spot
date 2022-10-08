@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@expo-google-fonts/poppins": "^0.2.2",
+    "expo-app-loading": "^2.1.0",
+    "expo-font": "^10.2.1",
+    "react-native-responsive-fontsize": "^0.5.1",
+    "styled-components": "^5.3.6"
+  },
+  "devDependencies": {
+    "@types/styled-components": "^5.1.26"
+  }
+}
